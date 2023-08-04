@@ -1,0 +1,13 @@
+				--------------------BatchObfuscator -By Emensta  //thanks for choosing my tool! :D--------------------
+
+
+			1. - drag your .bat file onto the "BatchObfuscator(drag&drop) -By Emensta.bat"
+
+			2. - a copy of your .bat has been created with "___" at the end
+
+			3. - done! now if you try to edit the .bat, you cannot read out what it contains
+
+
+							OBFUSCATING THE FILE DOES NOT CHANGE IT´S ACTIVITY!
+
+								YOUR PROMPT WILL RUN AS USUAL
